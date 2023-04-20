@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Italiana&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -28,7 +28,10 @@ ul {
   margin: 0;
   padding: 0;
   font-weight: normal;
-  color: rgb(235, 235, 235);
+  font-family: "Italiana", serif;
+  color: rgb(116, 168, 189);
+  font-size: 2em;
+  text-shadow: 2px 2px #12323b;
 }
 
 ol,
